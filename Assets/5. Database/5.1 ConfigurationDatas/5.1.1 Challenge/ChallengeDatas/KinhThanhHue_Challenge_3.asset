@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d804df9ef09bc34f8e3d354a572c1a6, type: 3}
+  m_Name: KinhThanhHue_Challenge_3
+  m_EditorClassIdentifier: 
+  _name: Historical Quiz Challenge
+  _price: 50
+  _quizConfigSOs:
+  - {fileID: 11400000, guid: 10bc973d95168d740805e2c24e60510d, type: 2}
+  - {fileID: 11400000, guid: baa8228f1b8c5be4cac1bbbd047f3443, type: 2}
+  - {fileID: 11400000, guid: 105e9a8d28e97e048bf3bd7489236f46, type: 2}

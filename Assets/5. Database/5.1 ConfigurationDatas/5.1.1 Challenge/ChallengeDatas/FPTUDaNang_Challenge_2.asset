@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d804df9ef09bc34f8e3d354a572c1a6, type: 3}
+  m_Name: FPTUDaNang_Challenge_2
+  m_EditorClassIdentifier: 
+  _name: Campus and Facilities Challenge
+  _price: 75
+  _quizConfigSOs:
+  - {fileID: 11400000, guid: 80bf5f972972f4a4ebdba0c43c757d93, type: 2}
+  - {fileID: 11400000, guid: 4502d3dd7aaf2884e80d2fd60d97683e, type: 2}

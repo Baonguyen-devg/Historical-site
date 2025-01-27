@@ -1,18 +1,14 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ChallengeConfigSO : MonoBehaviour
+[CreateAssetMenu(fileName = "ChallengeConfigSO", menuName = "DataSO/Challenge")]
+public class ChallengeConfigSO : ScriptableObject
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField] private string _name;
+    [SerializeField] private float _price;
+    [SerializeField] private List<QuizConfigSO> _quizConfigSOs= new List<QuizConfigSO>();
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public string Name => _name;
+    public float Price => _price;
+    public List<QuizConfigSO> QuizConfigSOs => _quizConfigSOs;
 }

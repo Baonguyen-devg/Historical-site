@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d804df9ef09bc34f8e3d354a572c1a6, type: 3}
+  m_Name: KinhThanhHue_Challenge_2
+  m_EditorClassIdentifier: 
+  _name: UNESCO Recognition Challenge
+  _price: 100
+  _quizConfigSOs:
+  - {fileID: 11400000, guid: 140c5bba0bec0874098d8f4dc2ad7354, type: 2}
+  - {fileID: 11400000, guid: 41f494dc1216a5e49a54c86db5bfc6d2, type: 2}
+  - {fileID: 11400000, guid: 7c3cb7b5eb163bb49b552ecfc7c5baf6, type: 2}
