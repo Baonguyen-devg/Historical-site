@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12d8337cbb352146bd67bf145b08701, type: 3}
+  m_Name: FPTUDanang_ConfigData
+  m_EditorClassIdentifier: 
+  _xCoordinate: 16.005
+  _yCoordinate: 108.249
+  _zCoordinate: 0
+  _name: FPT University Da Nang
+  _address: Hoa Hai, Ngu Hanh Son, Da Nang, Vietnam
+  _sescription: FPT University Da Nang is a modern university offering technology
+    and business education, with a focus on innovation and international integration.
+  _story: FPT University Da Nang, established under FPT Corporation, aims to nurture
+    talents and prepare students for the global IT and business market.
+  _pictures:
+  - {fileID: 21300000, guid: fbac71a3af826554f8d9328f746c3c5d, type: 3}
+  - {fileID: 21300000, guid: 73439c2dd722d0f48b6b95db027e58b4, type: 3}
+  - {fileID: 21300000, guid: 791048631ac1abb4c96f2dbe057e4eff, type: 3}
+  - {fileID: 21300000, guid: 95e496ccc789edf4e99a6f688dc09fa0, type: 3}
+  - {fileID: 21300000, guid: 0cbe3df25aa8ed04887d4d38f0418323, type: 3}
+  - {fileID: 21300000, guid: f463ed75fea47ee468ac6491125b230a, type: 3}
+  _conversations:
+  - {fileID: 11400000, guid: 129caa993515a39448516ae2c55fc7cc, type: 2}
+  _challenges:
+  - {fileID: 11400000, guid: dd7de901f6317ec489ede9b986e1951f, type: 2}
+  - {fileID: 11400000, guid: 70614f48e90db144d833db0fac40d4d0, type: 2}

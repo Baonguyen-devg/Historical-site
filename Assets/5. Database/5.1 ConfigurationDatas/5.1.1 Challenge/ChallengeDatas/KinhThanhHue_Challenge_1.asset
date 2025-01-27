@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d804df9ef09bc34f8e3d354a572c1a6, type: 3}
+  m_Name: KinhThanhHue_Challenge_1
+  m_EditorClassIdentifier: 
+  _name: Feng Shui and Architecture Challenge
+  _price: 75
+  _quizConfigSOs:
+  - {fileID: 11400000, guid: 2917abe3880988448a431ae9e7c324f4, type: 2}
+  - {fileID: 11400000, guid: c2ccc84d799d68d43a3e1e417f998bb7, type: 2}
+  - {fileID: 11400000, guid: ef7658c053a1f7746aeaf359c08d261d, type: 2}

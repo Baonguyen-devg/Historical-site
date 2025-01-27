@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12d8337cbb352146bd67bf145b08701, type: 3}
+  m_Name: KinhThanhHue_ConfigData
+  m_EditorClassIdentifier: 
+  _xCoordinate: 16.4637
+  _yCoordinate: 107.579
+  _zCoordinate: 0
+  _name: Hue Imperial City
+  _address: Hue City, Thua Thien Hue Province, Vietnam
+  _sescription: The Hue Imperial City is a famous historical site in Vietnam and
+    a UNESCO World Heritage Site.
+  _story: The Hue Imperial City was built during the Nguyen dynasty in the early
+    19th century, serving as the political, cultural, and educational center of feudal
+    Vietnam.
+  _pictures:
+  - {fileID: 21300000, guid: f3da16c32e5c9324bb676922d6747659, type: 3}
+  - {fileID: 21300000, guid: ca160e2eb0c3c0044afcc82d28740306, type: 3}
+  - {fileID: 21300000, guid: 420480d85759e354a8bff0911c923762, type: 3}
+  - {fileID: 21300000, guid: c40ff767f3d1b98479f5f3bd6ba5186d, type: 3}
+  - {fileID: 21300000, guid: b9ad86e04a668624785975b248caaf7c, type: 3}
+  _conversations:
+  - {fileID: 11400000, guid: 1843820fb65929c429c87326e9eb47d5, type: 2}
+  _challenges:
+  - {fileID: 11400000, guid: 68c3781e4f1530d42a52414e5113535d, type: 2}
+  - {fileID: 11400000, guid: 0580e815e2423d04d992d0334115db64, type: 2}
+  - {fileID: 11400000, guid: 0db5396e72bd1da44bee7d689cc3692f, type: 2}
