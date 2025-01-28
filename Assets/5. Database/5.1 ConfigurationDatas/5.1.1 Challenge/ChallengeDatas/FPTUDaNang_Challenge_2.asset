@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d804df9ef09bc34f8e3d354a572c1a6, type: 3}
   m_Name: FPTUDaNang_Challenge_2
   m_EditorClassIdentifier: 
+  _id: 2
   _name: Campus and Facilities Challenge
   _price: 75
   _quizConfigSOs:

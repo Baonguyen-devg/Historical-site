@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae7ba55c1cd023147a43ee27c15c7ec9, type: 3}
   m_Name: KinhThanhHue_NPCConversation_1
   m_EditorClassIdentifier: 
+  _id: 2
   _contents:
   - Welcome to Hue Imperial City, a UNESCO World Heritage Site!
   - Explore the history of the Nguyen dynasty and Vietnamese culture here.
