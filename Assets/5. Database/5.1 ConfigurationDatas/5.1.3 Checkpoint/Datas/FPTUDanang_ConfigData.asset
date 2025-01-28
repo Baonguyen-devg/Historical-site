@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d12d8337cbb352146bd67bf145b08701, type: 3}
   m_Name: FPTUDanang_ConfigData
   m_EditorClassIdentifier: 
+  _id: 1
+  _name: FPT University Da Nang
+  _address: Hoa Hai, Ngu Hanh Son, Da Nang, Vietnam
+  _description: 
+  _story: FPT University Da Nang, established under FPT Corporation, aims to nurture
+    talents and prepare students for the global IT and business market.
   _xCoordinate: 16.005
   _yCoordinate: 108.249
   _zCoordinate: 0
-  _name: FPT University Da Nang
-  _address: Hoa Hai, Ngu Hanh Son, Da Nang, Vietnam
-  _sescription: FPT University Da Nang is a modern university offering technology
-    and business education, with a focus on innovation and international integration.
-  _story: FPT University Da Nang, established under FPT Corporation, aims to nurture
-    talents and prepare students for the global IT and business market.
   _pictures:
   - {fileID: 21300000, guid: fbac71a3af826554f8d9328f746c3c5d, type: 3}
   - {fileID: 21300000, guid: 73439c2dd722d0f48b6b95db027e58b4, type: 3}

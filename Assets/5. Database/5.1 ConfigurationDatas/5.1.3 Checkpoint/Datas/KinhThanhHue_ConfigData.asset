@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d12d8337cbb352146bd67bf145b08701, type: 3}
   m_Name: KinhThanhHue_ConfigData
   m_EditorClassIdentifier: 
-  _xCoordinate: 16.4637
-  _yCoordinate: 107.579
-  _zCoordinate: 0
+  _id: 2
   _name: Hue Imperial City
   _address: Hue City, Thua Thien Hue Province, Vietnam
-  _sescription: The Hue Imperial City is a famous historical site in Vietnam and
-    a UNESCO World Heritage Site.
+  _description: 
   _story: The Hue Imperial City was built during the Nguyen dynasty in the early
     19th century, serving as the political, cultural, and educational center of feudal
     Vietnam.
+  _xCoordinate: 16.4637
+  _yCoordinate: 107.579
+  _zCoordinate: 0
   _pictures:
   - {fileID: 21300000, guid: f3da16c32e5c9324bb676922d6747659, type: 3}
   - {fileID: 21300000, guid: ca160e2eb0c3c0044afcc82d28740306, type: 3}

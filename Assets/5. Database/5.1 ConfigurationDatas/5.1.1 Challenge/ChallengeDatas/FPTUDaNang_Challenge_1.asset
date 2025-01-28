@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d804df9ef09bc34f8e3d354a572c1a6, type: 3}
   m_Name: FPTUDaNang_Challenge_1
   m_EditorClassIdentifier: 
+  _id: 1
   _name: FPT University Facts Challenge
   _price: 50
   _quizConfigSOs:
